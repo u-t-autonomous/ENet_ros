@@ -1,5 +1,7 @@
 # How to Install Caffe for ENet
 
+TODO: Update README paths and instructions
+
 1. Complete the [pre-requisites](http://caffe.berkeleyvision.org/install_apt.html).
 
 2. Clone ENet:
